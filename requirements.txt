@@ -3,6 +3,7 @@ langchain
 langchain-ibm
 ibm-watsonx-ai
 ibm_watson_machine_learning
+python_version == "3.11"
 pandas==2.1.4
 numpy
 chromadb
