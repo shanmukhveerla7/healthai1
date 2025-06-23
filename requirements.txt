@@ -1,11 +1,9 @@
-streamlit
+ibm_watson_machine_learning
+ibm-watsonx-ai
 langchain
 langchain-ibm
-ibm-watsonx-ai
-ibm_watson_machine_learning
-python_version == "3.11"
-pandas==2.1.4
-numpy
-chromadb
-tiktoken
-bs4
+fpdf
+plotly
+matplotlib
+pandas
+timedelta
